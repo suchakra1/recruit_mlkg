@@ -1,17 +1,5 @@
 """
-Contributions from:
-DSEverything - Mean Mix - Math, Geo, Harmonic (LB 0.493) 
-https://www.kaggle.com/dongxu027/mean-mix-math-geo-harmonic-lb-0-493
-JdPaletto - Surprised Yet? - Part2 - (LB: 0.503)
-https://www.kaggle.com/jdpaletto/surprised-yet-part2-lb-0-503
-hklee - weighted mean comparisons, LB 0.497, 1ST
-https://www.kaggle.com/zeemeen/weighted-mean-comparisons-lb-0-497-1st
-tunguz - Surprise Me 2!
-https://www.kaggle.com/tunguz/surprise-me-2/code
-
-Also all comments for changes, encouragement, and forked scripts rock
-
-Keep the Surprise Going
+XGB winner modified from original -SC 2018
 """
 
 import glob, re
